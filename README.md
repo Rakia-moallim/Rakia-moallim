@@ -7,7 +7,7 @@ I'm a **Software Engineer and Full-Stack Developer** building practical web appl
 ## 🔗 Connect with me
 - **LinkedIn**: [Rakia Moallim](https://www.linkedin.com/in/rakia-moallim-3b3582262/)
 - **GitHub**: [@Rakia-moallim](https://github.com/Rakia-moallim)
-- **Email**: [rakiamoallim@gmail.com](mailto:rakiamoallim@gmail.com)
+- **Email**: [rakiamohamedmoallim@gmail.com](mailto:rakiamohamedmoallim@gmail.com)
 
 ## 🛠️ Technical Skills
 
